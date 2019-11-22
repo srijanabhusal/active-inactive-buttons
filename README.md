@@ -18,4 +18,4 @@ Is this you very first time reaching out for Flutter? Then never mind to check t
  Your emulator should be displaying the following output:
  
  
- ![](https://github.com/srijanabhusal/flutter-buttons-and-clickables/blob/master/ezgif.com-video-to-gif.gif)
+ ![](https://github.com/srijanabhusal/active-inactive-buttons/blob/master/active-inactive.gif)
